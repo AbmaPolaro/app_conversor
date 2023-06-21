@@ -1,4 +1,5 @@
 # app_conversor_moeda
 
-Exercício prático - exemplo do Livro: Flutter Framework
+Exercício prático.
+Referência: MARINHO, Leonardo H. Flutter Framework: Desenvolva aplicações móveis no Dart Side! . Casa do Código I ALURA.
 
